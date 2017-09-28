@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Titles of various activities-->
+    <string name="app_name">MyRibbit</string>
+    <string name="title_activity_login">Akwaaba! to MyRibbit</string>
+    <string name="title_activity_signup">Enigye nie! MyRibbit</string>
+
+    <!-- Hints for better user interaction-->
+    <string name="hint_username">UserName</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_email">Email</string>
+
+    <!-- Button and TextButton names -->
+    <string name="btn_login">Log In</string>
+    <string name="btn_txt_signup">Sign Up!</string>
+    <string name="btn_signup">Sign Up!</string>
+
+</resources>
